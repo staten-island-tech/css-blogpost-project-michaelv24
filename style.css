@@ -3,8 +3,24 @@ body {
   color: blue;
   font-size: 25px;
 }
-#id {
-  color: purple;
+.background{
+  background-image:
+}
+}
+.header{
+  margin-top:60px auto;
+  border: 3px solid blue;
+  padding: 50px 25px;
+  width:50vw
+}
+.Blog-1{
+  color:brown
+}
+.Blog-2{
+  color:blue
+}
+.Blog-3{
+  color:rgb(245, 9, 245)
 }
 
 }
